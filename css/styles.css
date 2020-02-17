@@ -1,0 +1,168 @@
+body {
+  background-color: #f9d5bb;
+  color: #d35656;
+}
+
+.company {
+  color: #d35656;
+  position: relative;
+  width: 50%;
+  margin: 50px 100px;
+}
+
+.navi-bar {
+  color: #d35656;
+  position: relative;
+  display: block;
+  float: right;
+  width: 50%;
+  text-align: right;
+  margin: 0 50px;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  display: inline-block;
+}
+
+a {
+  color: #d35656;
+  font-size: 1.25rem;
+  text-decoration: none;
+  padding-right: 10px;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+a:hover {
+  color: #f66767;
+}
+
+.company-img {
+  float: left;
+  width: 20%;
+}
+
+.section {
+  margin: 150px 200px 0 200px;
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+  padding-top: 50px;
+  text-align: justify;
+}
+
+p {
+  font-family: 'Signika', sans-serif;
+  color: #f66767;
+  text-align: justify;
+}
+
+.email {
+  margin: 50px 0;
+}
+
+.btn {
+  margin: 0 10px;
+}
+
+.pic-one {
+  margin-left: 200px;
+  float: right;
+  width: 30%;
+}
+
+.pic-two {
+  margin-right: 200px;
+  float: left;
+  width: 30%;
+}
+
+.section-a {
+  margin-top: 200px;
+  padding: 20px 300px;
+  background-color: #3c3d47;
+}
+
+.footer {
+  position: relative;
+  margin: 50px 200px 50px 200px;
+  text-align: justify;
+}
+
+
+h3 {
+  font-family: 'Signika', sans-serif;
+  color: #3c3d47;
+  display: inline-block;
+}
+
+h5 {
+  margin: 15px 10px;
+  color: #d35656;
+  display: inline-block;
+}
+
+
+.container-1 {
+  width: 30%;
+  line-height: 2;
+  display: inline-block;
+  margin-right: 10%;
+}
+
+.container-2 {
+  width: 9%;
+  display: inline-block;
+}
+
+.container-3 {
+  width: 30%;
+  display: inline-block;
+  margin-left: 5%;
+  text-align: center;
+}
+
+.company-s-img {
+  margin: 10px 10px;
+  float: left;
+  width: 20%;
+}
+
+.contact-img {
+  margin: 10px 10px;
+  float: left;
+  width: 10%;
+}
+
+.social-img {
+  margin: 10px 10px;
+  width: 10%;
+}
+
+
+
+.btn {
+	box-shadow: 0 10px 14px -7px #f66767;
+	background:linear-gradient(to bottom, #f66767 5%, #d35656 100%);
+	background-color:#f66767;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: 'Rajdhani', sans-serif;
+	font-size: 1rem;
+	font-weight:bold;
+	padding:10px 20px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #d35656;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #d35656 5%, #f66767 100%);
+	background-color:#f66767;
+}
+
+.btn:active {
+	position:relative;
+	top:1px;
+}
